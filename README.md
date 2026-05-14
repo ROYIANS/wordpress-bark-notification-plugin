@@ -1,15 +1,22 @@
-=== Bark Notify ===
+# Bark Notify
+
 Contributors:      ROYIANS
+
 Tags:              notification, bark, push, comments, mobile
+
 Requires at least: 5.8
+
 Tested up to:      6.7
+
 Stable tag:        1.0.0
+
 Requires PHP:      7.4
+
 License:           GPLv2 or later
 
 通过 Bark 向 iPhone 发送 WordPress 实时推送通知。
 
-== Description ==
+## Description
 
 Bark Notify 是一款轻量级 WordPress 插件，将站点事件通过 Bark API 实时推送到你的 iPhone。
 
@@ -31,7 +38,7 @@ Bark Notify 是一款轻量级 WordPress 插件，将站点事件通过 Bark API
 * 一键发送测试推送
 * 简洁美观的配置页面
 
-== Installation ==
+## Installation
 
 1. 将 `bark-notify` 文件夹上传到 `/wp-content/plugins/` 目录
 2. 在 WordPress 后台"插件"页面启用 **Bark Notify**
@@ -39,7 +46,8 @@ Bark Notify 是一款轻量级 WordPress 插件，将站点事件通过 Bark API
 4. 勾选需要的通知事件，保存
 5. 点击"发送测试推送"确认配置正确
 
-== Changelog ==
+## Changelog
 
 = 1.0.0 =
+
 * 初始版本发布
